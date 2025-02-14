@@ -7,6 +7,7 @@
     "test": "jest",
     "ch1": "semistandard --fix ch1-basics && node ch1-basics/custom-test-phase1.js && node ch1-basics/custom-test-phase2.js && node ch1-basics/custom-test-phase3.js",
     "ch2": "jest ch2",
+    "ch2w": "jest ch2 --watch",
     "ch3": "jest ch3",
     "ch4": "jest ch4",
     "ch5": "jest ch5",
